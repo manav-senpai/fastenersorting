@@ -1,0 +1,561 @@
+[2026-09-10 11:22:17] [INFO] [MainThread] FastenerVision: Generated sample image: C:\Users\ahire\OneDrive\Desktop\fastner sorting machine\sample_images\sample_01_hex_nut.png
+[2026-09-10 11:22:17] [INFO] [MainThread] FastenerVision: Generated sample image: C:\Users\ahire\OneDrive\Desktop\fastner sorting machine\sample_images\sample_02_hex_bolt.png
+[2026-09-10 11:22:17] [INFO] [MainThread] FastenerVision: Generated sample image: C:\Users\ahire\OneDrive\Desktop\fastner sorting machine\sample_images\sample_03_wood_screw.png
+[2026-09-10 11:22:17] [INFO] [MainThread] FastenerVision: Generated sample image: C:\Users\ahire\OneDrive\Desktop\fastner sorting machine\sample_images\sample_04_flat_washer.png
+[2026-09-10 11:22:49] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 11:22:49] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 11:22:51] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 11:22:52] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 11:22:52] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 11:25:46] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 11:25:46] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-10 11:25:56] [INFO] [Dummy-1] FastenerVision: Opening camera index 0...
+[2026-09-10 11:25:59] [INFO] [Dummy-1] FastenerVision: Camera stream initialized successfully.
+[2026-09-10 11:25:59] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-10 11:26:26] [INFO] [Dummy-1] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-10 11:26:26] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: sample_01_hex_nut.png
+[2026-09-10 11:26:26] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-10 11:26:33] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: sample_02_hex_bolt.png
+[2026-09-10 11:26:36] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: sample_03_wood_screw.png
+[2026-09-10 11:26:38] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: sample_04_flat_washer.png
+[2026-09-10 11:26:40] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: sample_01_hex_nut.png
+[2026-09-10 11:26:47] [INFO] [Dummy-2] FastenerVision: Opening camera index 0...
+[2026-09-10 11:26:49] [INFO] [Dummy-2] FastenerVision: Camera stream initialized successfully.
+[2026-09-10 11:26:49] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-10 11:27:46] [INFO] [Dummy-2] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-10 11:27:46] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-10 11:27:46] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-10 11:28:01] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-10 11:30:38] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 11:30:38] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 11:30:38] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 11:30:39] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 11:30:39] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 11:31:02] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 11:31:02] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 11:31:02] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 11:31:04] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 11:31:04] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 11:31:20] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 11:31:20] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 11:31:20] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 11:31:21] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 11:31:21] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 12:37:56] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 12:38:03] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 12:38:03] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-10 12:38:14] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-10 12:38:16] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 12:38:16] [INFO] [Dummy-1] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 12:38:16] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 97%) - Local Vision: Threaded cylindrical shaft with prominent hexagonal head and blunt end (Aspect Ratio: 2.43).
+[2026-09-10 12:39:15] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: Hex-Nut.jpg
+[2026-09-10 12:39:16] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 12:39:16] [INFO] [Dummy-2] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 12:39:16] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Local Vision: Internally-holed fastener with faceted hexagonal outer profile (Compactness: 0.88).
+[2026-09-10 12:39:25] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 13:17:35] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 13:17:35] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-10 13:18:19] [INFO] [Dummy-1] FastenerVision: Opening camera index 0...
+[2026-09-10 13:18:21] [INFO] [Dummy-1] FastenerVision: Camera stream initialized successfully.
+[2026-09-10 13:18:21] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-10 13:19:04] [INFO] [Dummy-1] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-10 13:19:04] [INFO] [MainThread] FastenerVision: [CAMERA] Captured frame from live camera.
+[2026-09-10 13:19:04] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-10 13:19:06] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 13:19:06] [INFO] [Dummy-2] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 13:19:06] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Local Vision: Internally-holed fastener with faceted hexagonal outer profile (Compactness: 0.63).
+[2026-09-10 13:19:24] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-10 13:19:26] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 13:19:26] [INFO] [Dummy-3] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 13:19:26] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 97%) - Local Vision: Threaded cylindrical shaft with prominent hexagonal head and blunt end (Aspect Ratio: 4.00).
+[2026-09-10 13:19:38] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-10 13:19:40] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 13:19:40] [INFO] [Dummy-4] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 13:19:40] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 97%) - Local Vision: Threaded cylindrical shaft with prominent hexagonal head and blunt end (Aspect Ratio: 2.43).
+[2026-09-10 13:23:03] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 13:23:24] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 13:23:24] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 13:23:25] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 13:23:26] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 13:23:26] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 13:27:01] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 13:27:01] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 13:27:01] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 13:27:02] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 13:27:02] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 13:27:38] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 13:27:38] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 13:27:38] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 13:27:39] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 13:27:39] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 13:28:17] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Test
+[2026-09-10 13:28:17] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-10 13:28:17] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 13:28:18] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 13:28:18] [INFO] [MainThread] FastenerVision: [TESTS] All verification tests passed (5/5).
+[2026-09-10 18:48:16] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 18:48:16] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-10 18:49:29] [INFO] [Dummy-1] FastenerVision: Opening camera index 0...
+[2026-09-10 18:49:30] [INFO] [Dummy-1] FastenerVision: Camera stream initialized successfully.
+[2026-09-10 18:49:30] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-10 18:50:01] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode started.
+[2026-09-10 18:57:53] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode stopped.
+[2026-09-10 18:57:54] [INFO] [Dummy-1] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-10 18:57:54] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-10 18:57:54] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-10 19:21:34] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-10 19:21:34] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-10 19:21:45] [INFO] [Dummy-1] FastenerVision: Opening camera index 0...
+[2026-09-10 19:21:47] [INFO] [Dummy-1] FastenerVision: Camera stream initialized successfully.
+[2026-09-10 19:21:47] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-10 19:21:50] [INFO] [Dummy-1] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-10 19:21:50] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-10 19:21:58] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-10 19:22:01] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:22:01] [INFO] [Dummy-2] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:22:01] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 4.00) with sharp tapered driving tip (Tip Ratio: 0.36) and driving head.
+[2026-09-10 19:22:12] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images.jpg
+[2026-09-10 19:22:13] [INFO] [Dummy-3] FastenerVision: Opening camera index 0...
+[2026-09-10 19:22:15] [INFO] [Dummy-3] FastenerVision: Camera stream initialized successfully.
+[2026-09-10 19:22:15] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-10 19:22:19] [INFO] [Dummy-3] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-10 19:22:19] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-10 19:22:23] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images.jpg
+[2026-09-10 19:22:24] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:22:24] [INFO] [Dummy-4] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:22:24] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected WASHER (Confidence: 96%) - Local Vision: Annular flat ring with circular geometry and central hole (Compactness: 0.99, Circularity: 0.90).
+[2026-09-10 19:22:32] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-10 19:22:34] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:22:34] [INFO] [Dummy-5] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:22:34] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 98%) - Local Vision: Threaded cylindrical shaft with prominent head and blunt flat end (Aspect Ratio: 2.43, End Ratio: 0.54).
+[2026-09-10 19:22:40] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: Hex-Nut.jpg
+[2026-09-10 19:22:41] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:22:41] [INFO] [Dummy-6] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:22:41] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 2.01) with sharp tapered driving tip (Tip Ratio: 0.40) and driving head.
+[2026-09-10 19:22:44] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:22:44] [INFO] [Dummy-7] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:22:44] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 2.01) with sharp tapered driving tip (Tip Ratio: 0.40) and driving head.
+[2026-09-10 19:22:55] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-10 19:22:57] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:22:57] [INFO] [Dummy-8] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:22:57] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 4.00) with sharp tapered driving tip (Tip Ratio: 0.36) and driving head.
+[2026-09-10 19:23:06] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: Hex-Nut.jpg
+[2026-09-10 19:23:11] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images.jpg
+[2026-09-10 19:23:14] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:23:14] [INFO] [Dummy-9] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:23:14] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected WASHER (Confidence: 96%) - Local Vision: Annular flat ring with circular geometry and central hole (Compactness: 0.99, Circularity: 0.90).
+[2026-09-10 19:23:25] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-10 19:23:27] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 19:23:27] [INFO] [Dummy-10] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 19:23:27] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 98%) - Local Vision: Threaded cylindrical shaft with prominent head and blunt flat end (Aspect Ratio: 2.43, End Ratio: 0.54).
+[2026-09-10 21:58:53] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images.jpg
+[2026-09-10 21:58:55] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 21:58:55] [INFO] [Dummy-11] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 21:58:55] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected WASHER (Confidence: 96%) - Local Vision: Annular flat ring with circular geometry and central hole (Compactness: 0.99, Circularity: 0.90).
+[2026-09-10 21:59:00] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-10 21:59:02] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-10 21:59:02] [INFO] [Dummy-12] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-10 21:59:02] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 4.00) with sharp tapered driving tip (Tip Ratio: 0.36) and driving head.
+[2026-09-10 21:59:06] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode started.
+[2026-09-10 21:59:06] [INFO] [Dummy-13] FastenerVision: Opening camera index 0...
+[2026-09-10 21:59:08] [INFO] [Dummy-13] FastenerVision: Camera stream initialized successfully.
+[2026-09-10 21:59:08] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-10 21:59:32] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode stopped.
+[2026-09-10 21:59:34] [INFO] [Dummy-13] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-10 21:59:34] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-11 02:47:31] [INFO] [Dummy-14] FastenerVision: Opening camera index 0...
+[2026-09-11 02:47:32] [INFO] [Dummy-14] FastenerVision: Camera stream initialized successfully.
+[2026-09-11 02:47:32] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-11 02:51:39] [INFO] [Dummy-14] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-11 02:51:39] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-11 02:51:39] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-15 14:33:17] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-15 14:33:17] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-15 14:33:35] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-15 14:33:39] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:33:39] [INFO] [Dummy-1] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:33:39] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 4.00) with sharp tapered driving tip (Tip Ratio: 0.36) and driving head.
+[2026-09-15 14:33:43] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-15 14:43:45] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-15 14:43:45] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-15 14:43:57] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: Hex-Nut.jpg
+[2026-09-15 14:43:59] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:43:59] [INFO] [Dummy-1] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:43:59] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 2.01) with sharp tapered driving tip (Tip Ratio: 0.40) and driving head.
+[2026-09-15 14:44:08] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-15 14:44:10] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:44:10] [INFO] [Dummy-2] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:44:10] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 98%) - Local Vision: Threaded cylindrical shaft with prominent head and blunt flat end (Aspect Ratio: 2.43, End Ratio: 0.54).
+[2026-09-15 14:44:12] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:44:12] [INFO] [Dummy-3] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:44:12] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 98%) - Local Vision: Threaded cylindrical shaft with prominent head and blunt flat end (Aspect Ratio: 2.43, End Ratio: 0.54).
+[2026-09-15 14:44:53] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images (1).jpg
+[2026-09-15 14:44:54] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:44:54] [INFO] [Dummy-4] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:44:54] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Local Vision: Internally-holed fastener with faceted hexagonal profile (Compactness: 0.86, Facets: 6).
+[2026-09-15 14:44:55] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:44:55] [INFO] [Dummy-5] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:44:55] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Local Vision: Internally-holed fastener with faceted hexagonal profile (Compactness: 0.86, Facets: 6).
+[2026-09-15 14:45:04] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode started.
+[2026-09-15 14:45:04] [INFO] [Dummy-6] FastenerVision: Opening camera index 0...
+[2026-09-15 14:45:05] [INFO] [Dummy-6] FastenerVision: Camera stream initialized successfully.
+[2026-09-15 14:45:05] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-15 14:45:07] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode stopped.
+[2026-09-15 14:45:11] [INFO] [Dummy-6] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-15 14:45:11] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-15 14:47:56] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-15 14:51:42] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-15 14:51:42] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-15 14:52:02] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images (1).jpg
+[2026-09-15 14:52:03] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:52:03] [INFO] [Dummy-1] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:52:04] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Local Vision: Internally-holed fastener with faceted hexagonal profile (Compactness: 0.86, Facets: 6).
+[2026-09-15 14:52:11] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode started.
+[2026-09-15 14:52:11] [INFO] [Dummy-2] FastenerVision: Opening camera index 0...
+[2026-09-15 14:52:13] [INFO] [Dummy-2] FastenerVision: Camera stream initialized successfully.
+[2026-09-15 14:52:13] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-15 14:52:25] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode stopped.
+[2026-09-15 14:52:26] [INFO] [Dummy-2] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-15 14:52:26] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-15 14:52:26] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-15 14:52:35] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-15 14:52:37] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:52:37] [INFO] [Dummy-3] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:52:37] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 4.00) with sharp tapered driving tip (Tip Ratio: 0.36) and driving head.
+[2026-09-15 14:52:43] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images.jpg
+[2026-09-15 14:52:44] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:52:44] [INFO] [Dummy-4] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:52:44] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected WASHER (Confidence: 96%) - Local Vision: Annular flat ring with circular geometry and central hole (Compactness: 0.99, Circularity: 0.90).
+[2026-09-15 14:55:39] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-09-15 14:56:03] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 14:56:03] [INFO] [Dummy-5] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 14:56:03] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected BOLT (Confidence: 98%) - Local Vision: Threaded cylindrical shaft with prominent head and blunt flat end (Aspect Ratio: 2.43, End Ratio: 0.54).
+[2026-09-15 14:57:55] [INFO] [MainThread] FastenerVision: [SETTINGS] Saved configuration: Model=Local Offline Vision Engine (Zero-Config), Key Updated=Yes
+[2026-09-15 14:57:55] [INFO] [MainThread] FastenerVision: [SETTINGS] Active model updated to: Local Offline Vision Engine (Zero-Config)
+[2026-09-15 15:00:24] [INFO] [Dummy-6] FastenerVision: Opening camera index 0...
+[2026-09-15 15:00:26] [INFO] [Dummy-6] FastenerVision: Camera stream initialized successfully.
+[2026-09-15 15:00:26] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-15 15:00:39] [INFO] [Dummy-6] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-15 15:00:39] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-15 15:04:16] [INFO] [MainThread] FastenerVision: [SYSTEM] Category counters reset to zero.
+[2026-09-15 15:05:24] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-15 15:05:24] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-15 15:05:34] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images.jpg
+[2026-09-15 15:05:40] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-15 15:05:40] [INFO] [Dummy-1] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-15 15:05:40] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected WASHER (Confidence: 96%) - Local Vision: Annular flat ring with circular geometry and central hole (Compactness: 0.99, Circularity: 0.90).
+[2026-09-15 15:05:42] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-15 15:52:49] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-16 00:03:32] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-16 00:03:32] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-16 00:06:42] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-16 00:09:21] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-16 00:09:21] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-16 00:09:54] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images (1).jpg
+[2026-09-16 00:10:07] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-16 00:10:07] [INFO] [Dummy-1] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-16 00:10:07] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Local Vision: Internally-holed fastener with faceted hexagonal profile (Compactness: 0.86, Facets: 6).
+[2026-09-16 00:10:20] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-16 00:10:21] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-16 00:10:21] [INFO] [Dummy-2] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-16 00:10:21] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 4.00) with sharp tapered driving tip (Tip Ratio: 0.36) and driving head.
+[2026-09-16 00:11:05] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-16 13:40:01] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-16 13:40:02] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-16 13:40:27] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images (1).jpg
+[2026-09-16 13:40:39] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-16 13:40:39] [INFO] [Dummy-1] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-16 13:40:39] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected NUT (Confidence: 95%) - Local Vision: Internally-holed fastener with faceted hexagonal profile (Compactness: 0.86, Facets: 6).
+[2026-09-16 13:40:51] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-16 13:40:54] [INFO] [MainThread] FastenerVision: [INFERENCE] Analyzing fastener image via Local Offline Vision Engine...
+[2026-09-16 13:40:54] [INFO] [Dummy-2] FastenerVision: Executing classification via Local Offline Computer Vision Engine...
+[2026-09-16 13:40:54] [INFO] [MainThread] FastenerVision: [INSPECTION] Detected SCREW (Confidence: 98%) - Local Vision: Elongated threaded fastener (Aspect Ratio: 4.00) with sharp tapered driving tip (Tip Ratio: 0.36) and driving head.
+[2026-09-16 13:43:22] [INFO] [Dummy-3] FastenerVision: Opening camera index 0...
+[2026-09-16 13:43:24] [INFO] [Dummy-3] FastenerVision: Camera stream initialized successfully.
+[2026-09-16 13:43:24] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-16 13:45:00] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode started.
+[2026-09-16 13:47:15] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode stopped.
+[2026-09-16 13:47:15] [INFO] [Dummy-3] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-16 13:47:15] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-16 13:47:15] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-16 13:47:39] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-16 13:47:40] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-16 13:47:45] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode started.
+[2026-09-16 13:47:45] [INFO] [Dummy-1] FastenerVision: Opening camera index 0...
+[2026-09-16 13:47:47] [INFO] [Dummy-1] FastenerVision: Camera stream initialized successfully.
+[2026-09-16 13:47:47] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream started.
+[2026-09-16 13:48:48] [INFO] [MainThread] FastenerVision: [LIVE_MODE] Live fastener AI detection mode stopped.
+[2026-09-16 13:48:48] [INFO] [Dummy-1] FastenerVision: Camera stream stopped and hardware resource released.
+[2026-09-16 13:48:48] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-16 13:48:48] [INFO] [MainThread] FastenerVision: [CAMERA] Camera stream stopped.
+[2026-09-22 21:07:42] [INFO] [MainThread] FastenerVision: [STARTUP] Application initialized and UI ready.
+[2026-09-22 21:07:42] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-22 21:34:14] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-24 14:22:28] [INFO] [MainThread] FastenerVision: [DECISION] ACCEPT: M8 x 40 -> Tray 1 (18°)
+[2026-09-24 14:22:28] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 3, "angle": 54}
+[2026-09-24 14:22:28] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 3, "angle": 54}
+[2026-09-24 14:22:33] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Suite initialized.
+[2026-09-24 14:22:35] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-24 14:22:35] [INFO] [MainThread] FastenerVision: [TESTS] All 6 industrial suite verification tests passed.
+[2026-09-24 14:29:00] [INFO] [MainThread] FastenerVision: [DECISION] ACCEPT: M8 x 40 -> Tray 1 (18°)
+[2026-09-24 14:29:00] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 3, "angle": 54}
+[2026-09-24 14:29:00] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 3, "angle": 54}
+[2026-09-24 14:29:03] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Suite initialized.
+[2026-09-24 14:29:04] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-24 14:29:04] [INFO] [MainThread] FastenerVision: [TESTS] All 6 industrial suite verification tests passed.
+[2026-09-24 14:29:19] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Suite initialized.
+[2026-09-24 14:29:20] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-24 14:29:52] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images.jpg
+[2026-09-24 14:29:54] [INFO] [Dummy-1] FastenerVision: [DECISION] REJECT: M10 Washer -> Tray 10 (180°)
+[2026-09-24 14:29:54] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 180}
+[2026-09-24 14:29:54] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 180}
+[2026-09-24 14:29:55] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:29:55] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:29:55] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-24 14:29:55] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-24 14:29:56] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-09-24 14:29:56] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-09-24 14:30:24] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images (1).jpg
+[2026-09-24 14:30:26] [INFO] [Dummy-3] FastenerVision: [DECISION] REJECT: M12 Nut -> Tray 10 (180°)
+[2026-09-24 14:30:26] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 180}
+[2026-09-24 14:30:26] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 180}
+[2026-09-24 14:30:26] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:30:26] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:30:27] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-24 14:30:27] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-24 14:30:28] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-09-24 14:30:28] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-09-24 14:30:57] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:30:57] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:30:59] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:30:59] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-09-24 14:31:01] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 0}
+[2026-09-24 14:31:01] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 0}
+[2026-09-24 14:31:05] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "STOP"}
+[2026-09-24 14:31:05] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "STOP"}
+[2026-09-24 14:32:10] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 180}
+[2026-09-24 14:32:10] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 180}
+[2026-09-24 14:32:45] [INFO] [Dummy-5] FastenerVision: Opening camera index 0...
+[2026-09-24 14:32:47] [INFO] [Dummy-5] FastenerVision: Camera #0 streaming active.
+[2026-09-24 14:33:03] [INFO] [Dummy-5] FastenerVision: Camera stream closed.
+[2026-09-24 14:33:03] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-24 15:39:45] [INFO] [MainThread] FastenerVision: [DECISION] ACCEPT: M8 x 40 -> Tray 1 (18°)
+[2026-09-24 15:39:45] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 3, "angle": 54}
+[2026-09-24 15:39:45] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 3, "angle": 54}
+[2026-09-24 15:39:49] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-09-24 15:39:50] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-24 15:39:50] [INFO] [MainThread] FastenerVision: [TESTS] All 6 industrial suite verification tests passed.
+[2026-09-24 15:41:59] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-09-24 15:41:59] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [DATABASE] Added new specification: BOLT - M8 x 45 Custom
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [DATABASE] Deleted specification ID #22
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "ESTOP", "action": "HALT_ALL"}
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "ESTOP", "action": "HALT_ALL"}
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [ESTOP] EMERGENCY STOP ACTIVATED - All hardware motion halted!
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "RESET_ESTOP"}
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "RESET_ESTOP"}
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [ESTOP] Emergency Stop reset. System returned to READY.
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [DECISION] ACCEPT: M8 x 40 -> Tray 1 (18°)
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 2, "angle": 65}
+[2026-09-24 15:54:44] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 2, "angle": 65}
+[2026-09-24 15:54:46] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-09-24 15:54:47] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-24 15:54:47] [INFO] [MainThread] FastenerVision: [TESTS] All 7 extended industrial suite verification tests passed.
+[2026-09-24 15:56:11] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-09-24 15:56:11] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-24 15:57:18] [INFO] [MainThread] FastenerVision: [CONFIG] Configured 16 active sorting bins with angles [25, 33, 42, 51, 59, 68, 77, 85, 94, 103, 111, 120, 129, 137, 146, 155]
+[2026-09-24 16:03:24] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "ESTOP", "action": "HALT_ALL"}
+[2026-09-24 16:03:24] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "ESTOP", "action": "HALT_ALL"}
+[2026-09-24 16:03:24] [INFO] [MainThread] FastenerVision: [ESTOP] EMERGENCY STOP ACTIVATED - All hardware motion halted!
+[2026-09-24 16:03:28] [INFO] [MainThread] FastenerVision: Hardware Command -> {"command": "RESET_ESTOP"}
+[2026-09-24 16:03:28] [INFO] [MainThread] FastenerVision: [HARDWARE_CMD] {"command": "RESET_ESTOP"}
+[2026-09-24 16:03:28] [INFO] [MainThread] FastenerVision: [ESTOP] Emergency Stop reset. System returned to READY.
+[2026-09-24 16:03:33] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-25 18:27:55] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-09-25 18:27:55] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-25 18:28:12] [INFO] [MainThread] FastenerVision: [CONFIG] Configured 5 active sorting bins with angles [25, 57, 90, 122, 155]
+[2026-09-25 18:28:51] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-09-25 18:28:53] [INFO] [Dummy-1] FastenerVision: [DECISION] REJECT: M6 x 30 Screw -> Tray 10 (103°)
+[2026-09-25 18:28:53] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-09-25 18:28:53] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-09-25 18:28:54] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-09-25 18:28:54] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-09-25 18:28:54] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-25 18:28:54] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-25 18:28:55] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-09-25 18:28:55] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-09-25 18:29:11] [INFO] [MainThread] FastenerVision: [SYSTEM] Batch counters reset.
+[2026-09-25 18:29:19] [INFO] [Dummy-3] FastenerVision: Opening camera index 0...
+[2026-09-25 18:29:21] [INFO] [Dummy-3] FastenerVision: Camera #0 streaming active.
+[2026-09-25 18:29:36] [INFO] [Dummy-3] FastenerVision: Camera stream closed.
+[2026-09-25 18:29:36] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-09-26 14:10:57] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-09-26 14:10:57] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-09-26 14:11:28] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images (1).jpg
+[2026-09-26 14:11:41] [INFO] [Dummy-1] FastenerVision: [DECISION] REJECT: M12 Nut -> Tray 10 (103°)
+[2026-09-26 14:11:41] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-09-26 14:11:41] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-09-26 14:11:41] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-09-26 14:11:41] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-09-26 14:11:42] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-26 14:11:42] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-26 14:11:43] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-09-26 14:11:43] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-09-26 14:11:56] [INFO] [Dummy-3] FastenerVision: [DECISION] REJECT: M12 Nut -> Tray 10 (103°)
+[2026-09-26 14:11:56] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-09-26 14:11:56] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-09-26 14:11:57] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-09-26 14:11:57] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-09-26 14:11:57] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-26 14:11:57] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-09-26 14:11:59] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-09-26 14:11:59] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-09-26 14:37:54] [INFO] [MainThread] FastenerVision: [CONFIG] Configured 7 active sorting bins with angles [25, 50, 76, 102, 128, 154, 180]
+[2026-09-27 21:07:01] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-10-04 11:01:47] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-10-04 11:01:47] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-10-04 13:08:35] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-10-04 13:28:05] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-10-04 13:28:05] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-10-04 13:28:24] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: F5081177-01.webp
+[2026-10-04 13:28:26] [INFO] [Dummy-1] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 13:28:26] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:28:26] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:28:26] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:28:26] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:28:27] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:28:27] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:28:28] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:28:28] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:28:51] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: images (1).jpg
+[2026-10-04 13:28:53] [INFO] [Dummy-3] FastenerVision: [DECISION] REJECT: M12 Nut -> Tray 10 (103°)
+[2026-10-04 13:28:53] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:28:53] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:28:53] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:28:53] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:28:54] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:28:54] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:28:55] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:28:55] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:29:40] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: 360_F_573366182_EFqaUPjOxpOvT8WJs9ZjoFXdbmnsodGh.jpg
+[2026-10-04 13:29:42] [INFO] [Dummy-5] FastenerVision: [DECISION] REJECT: M6 x 30 Screw -> Tray 10 (103°)
+[2026-10-04 13:29:42] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:29:42] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:29:42] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:29:42] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:29:43] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:29:43] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:29:44] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:29:44] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:29:50] [INFO] [Dummy-7] FastenerVision: Opening camera index 0...
+[2026-10-04 13:29:52] [INFO] [Dummy-7] FastenerVision: Camera #0 streaming active.
+[2026-10-04 13:30:54] [INFO] [Dummy-8] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 13:30:54] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:30:54] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:30:55] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:30:55] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:30:55] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:30:55] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:30:56] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:30:56] [INFO] [Thread-9 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:30:59] [INFO] [Dummy-10] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 13:30:59] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:30:59] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:30:59] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:30:59] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:30:59] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:30:59] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:01] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:31:01] [INFO] [Thread-11 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:31:03] [INFO] [Dummy-12] FastenerVision: [DECISION] REJECT: M12 Nut -> Tray 10 (103°)
+[2026-10-04 13:31:03] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:03] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:03] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:03] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:04] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:04] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:05] [INFO] [Dummy-14] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 13:31:05] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:05] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:05] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:31:05] [INFO] [Thread-13 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:31:05] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:05] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:06] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:06] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:06] [INFO] [Dummy-16] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 13:31:06] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:06] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:06] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:06] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:07] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:07] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:07] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:31:07] [INFO] [Thread-15 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:31:08] [INFO] [Dummy-7] FastenerVision: Camera stream closed.
+[2026-10-04 13:31:08] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:31:08] [INFO] [Thread-17 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:31:10] [INFO] [Dummy-18] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 13:31:10] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:10] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:31:10] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:10] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:31:11] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:11] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:31:12] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:31:12] [INFO] [Thread-19 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:31:36] [INFO] [Dummy-20] FastenerVision: Opening camera index 0...
+[2026-10-04 13:31:38] [INFO] [Dummy-20] FastenerVision: Camera #0 streaming active.
+[2026-10-04 13:35:49] [INFO] [Dummy-20] FastenerVision: Camera stream closed.
+[2026-10-04 13:35:49] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-10-04 13:36:02] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-10-04 13:36:02] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-10-04 13:36:07] [INFO] [Dummy-1] FastenerVision: Opening camera index 0...
+[2026-10-04 13:36:10] [INFO] [Dummy-1] FastenerVision: Camera #0 streaming active.
+[2026-10-04 13:36:25] [INFO] [Dummy-2] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 13:36:25] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:36:25] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 13:36:25] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:36:25] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 13:36:26] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:36:26] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 13:36:27] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 13:36:27] [INFO] [Thread-3 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 13:40:40] [INFO] [Dummy-1] FastenerVision: Camera stream closed.
+[2026-10-04 13:40:40] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-10-04 19:43:01] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-10-04 19:43:01] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-10-04 19:43:49] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: one-metal-nut-white-background-one-metal-nut-white-background-top-view-247612008.webp
+[2026-10-04 19:43:51] [INFO] [Dummy-1] FastenerVision: [DECISION] REJECT: M12 Nut -> Tray 10 (103°)
+[2026-10-04 19:43:51] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 19:43:51] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 19:43:52] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 19:43:52] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 19:43:52] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 19:43:52] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 19:43:53] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 19:43:53] [INFO] [Thread-2 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 19:44:39] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: bolt.webp
+[2026-10-04 19:44:40] [INFO] [Dummy-3] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 19:44:40] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 19:44:40] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 19:44:41] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 19:44:41] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 19:44:41] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 19:44:41] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 19:44:42] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 19:44:42] [INFO] [Thread-4 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 19:48:46] [INFO] [MainThread] FastenerVision: [IMAGE] Loaded image file: Types-of-fasteners-Screws.jpg
+[2026-10-04 19:48:48] [INFO] [Dummy-5] FastenerVision: [DECISION] REJECT: M12 x 60 -> Tray 10 (103°)
+[2026-10-04 19:48:48] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 19:48:48] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "SORT", "tray": 10, "angle": 103}
+[2026-10-04 19:48:48] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 19:48:48] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "TILT_PAD", "angle": 45}
+[2026-10-04 19:48:49] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 19:48:49] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "CONVEYOR", "action": "RUN", "duration_ms": 1200}
+[2026-10-04 19:48:50] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: Hardware Command -> {"command": "RESET"}
+[2026-10-04 19:48:50] [INFO] [Thread-6 (_run_sorting_sequence)] FastenerVision: [HARDWARE_CMD] {"command": "RESET"}
+[2026-10-04 20:13:04] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
+[2026-10-05 17:07:57] [INFO] [MainThread] FastenerVision: [STARTUP] Industrial Fastener Inspection Workstation initialized.
+[2026-10-05 17:07:58] [INFO] [MainThread] FastenerVision: [MAIN] Desktop application GUI loop started.
+[2026-10-05 17:08:04] [INFO] [MainThread] FastenerVision: [SHUTDOWN] Application closed cleanly.
